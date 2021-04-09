@@ -390,7 +390,10 @@
     .main__img--container{
         display: flex;
         justify-content: center;
-        width: 350px;
+        align-items: center;
+        /* width: 350px; */
+        width: 90%;
+        margin: auto;
     }
     .fa-layer-group,.fa-users{
         font-size: 4rem;
