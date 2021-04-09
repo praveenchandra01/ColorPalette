@@ -391,8 +391,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        /* width: 350px; */
-        width: 90%;
+        width: 350px;
+        /* width: 90%; */
         margin: auto;
     }
     .fa-layer-group,.fa-users{
