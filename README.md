@@ -1,5 +1,6 @@
 # Color Palette
 - This is a static website develeped using **HTML**,**CSS** and **JAVASCRIPT** 
+- This is frontend project
 # CSS Topics used
 - Flex box
 - Animation
