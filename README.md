@@ -10,4 +10,4 @@
 - Grid layout
 - Responsive layout
 ---
-# Access Link : https://praveenchandra01.github.io/ColorPalette/
+Access Link : https://praveenchandra01.github.io/ColorPalette/
