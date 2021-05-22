@@ -13,3 +13,7 @@
 - CSS Scrollbar
 ---
 Access Link : https://praveenchandra01.github.io/ColorPalette/
+## preview
+![](https://github.com/praveenchandra01/ColorPalette/blob/master/img/Screenshot%20(108).png)
+![](https://github.com/praveenchandra01/ColorPalette/blob/master/img/Screenshot%20(110).png)
+![](https://github.com/praveenchandra01/ColorPalette/blob/master/img/Screenshot%20(112).png)
