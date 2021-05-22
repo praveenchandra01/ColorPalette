@@ -1,7 +1,8 @@
 # Color Palette
-- This is a static website develeped using **HTML**,**CSS** and **JAVASCRIPT** 
-- This is frontend project
-- This is Responsive website capable to work on devices with diffrent screen resolution 
+- This is a static website (frontend project) develeped using **HTML**,**CSS** and **JAVASCRIPT** 
+- Premiun Eye Catching Frontend
+- Modern, Clean design 
+- Responsive website capable to work on devices with diffrent screen resolution 
 # CSS Topics used
 - Flex box
 - CSS Animations
