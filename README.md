@@ -9,5 +9,6 @@
 - Psuedo Selectors
 - Grid layout
 - Responsive layout
+- CSS Scrollbar
 ---
 Access Link : https://praveenchandra01.github.io/ColorPalette/
